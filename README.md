@@ -1,1 +1,0 @@
-# qulix.qa.internship
